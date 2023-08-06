@@ -1,3 +1,3 @@
 <?php
 
-echo "<b>Gabriel Devops Pro</b>";
+echo "<b>Gabriel Devops Profissional</b>";
